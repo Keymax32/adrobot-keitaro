@@ -1,0 +1,8 @@
+fastapi==0.165.0
+SQLAlchemy==2.0.58
+alembic==1.20.1
+httpx==0.28.1
+uvicorn==0.54.0
+python-dotenv==1.2.4
+pycountry==26.2.16
+
